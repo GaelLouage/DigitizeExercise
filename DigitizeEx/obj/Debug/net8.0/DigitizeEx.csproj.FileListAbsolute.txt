@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\bin\Debug\net8.0\DigitizeEx.exe
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\bin\Debug\net8.0\DigitizeEx.deps.json
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\bin\Debug\net8.0\DigitizeEx.runtimeconfig.json
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\bin\Debug\net8.0\DigitizeEx.dll
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\bin\Debug\net8.0\DigitizeEx.pdb
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.dll
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\refint\DigitizeEx.dll
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.pdb
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\DigitizeEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\DigitizeEx\DigitizeEx\obj\Debug\net8.0\ref\DigitizeEx.dll
